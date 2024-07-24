@@ -48,6 +48,12 @@ Site is Live at: https://movie-review-sentiment-analysis-2.onrender.com/
 
    This command will start the Streamlit server and open the app in your default web browser.
 
+##Screenshots
+![image](https://github.com/user-attachments/assets/25daef01-2c4a-41cd-9ac7-de61baad417c)
+![image](https://github.com/user-attachments/assets/9aa53f73-814b-41f5-9621-5034d9171d68)
+
+
+
 ## Files
 
 - `app.py`: The main Python script containing the Streamlit app.
